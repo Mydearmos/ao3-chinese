@@ -37,7 +37,19 @@ Black Tide：黑潮
 Demigod：半神
 Titan：泰坦
 Castrum Kremnos：悬锋城
+Kremnos：悬锋城
+Kremnoan crown prince：悬锋王储
+Deliverer：救世主
 Vortex of Genesis：创世涡心
 Vigethos：比格耶
 Honey Stew：蜜果羹
 Fig Stew：蜜果羹
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+alpha
+omega
+Alpha
+Omega
+Beta
+beta
