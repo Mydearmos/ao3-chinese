@@ -1,0 +1,43 @@
+厄敌
+版本号：1.0.0
+维护者：anonymous
+更新时间：2026-07-08
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Phainon = 白厄
+Mydeimos = 迈德漠斯
+Mydei = 万敌
+Khaslana = 卡厄斯兰那
+Flame Reaver = 盗火行者
+Aglaea = 阿格莱雅
+Tribios = 缇里西庇俄丝
+Tribbie = 缇宝
+Castorice = 遐蝶
+Anaxagoras = 阿那克萨戈拉斯
+Anaxa = 那刻夏
+Hyacinthia = 雅辛忒丝
+Hyacine = 风堇
+Cifera = 赛法利娅
+Cipher = 赛飞儿
+Cerydra = 刻律德菈
+Helektra = 海列屈拉
+Hysilens = 海瑟音
+Cyrene = 昔涟
+Evernight = 长夜月
+Dan Heng = 丹恒
+Amphoreus = 翁法罗斯
+Okehema = 奥赫玛
+Elysium = 哀丽秘榭
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Chrysos heirs：黄金裔
+Black Tide：黑潮
+Demigod：半神
+Titan：泰坦
+Castrum Kremnos：悬锋城
+Vortex of Genesis：创世涡心
+Vigethos：比格耶
+Honey Stew：蜜果羹
+Fig Stew：蜜果羹
