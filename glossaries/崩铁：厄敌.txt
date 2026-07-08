@@ -1,5 +1,5 @@
 厄敌
-版本号：1.0.1
+版本号：1.0.2
 维护者：anonymous
 更新时间：2026-07-08
 
@@ -26,6 +26,13 @@ Hysilens = 海瑟音
 Cyrene = 昔涟
 Evernight = 长夜月
 Dan Heng = 丹恒
+Hieronymus = 希洛尼摩斯
+Audata = 奥妲塔
+Orepus = 欧利庞
+Gorgo = 歌耳戈
+Stelle = 星
+Caelus = 穹
+Lygus = 来古士
 Amphoreus = 翁法罗斯
 Okehema = 奥赫玛
 Elysium = 哀丽秘榭
